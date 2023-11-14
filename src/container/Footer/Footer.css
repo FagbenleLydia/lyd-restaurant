@@ -28,6 +28,7 @@
     flex: 1;
     margin: 1rem;
     text-align: center;
+    color: white;
 }
 
 .app__footer-links_logo img:first-child {

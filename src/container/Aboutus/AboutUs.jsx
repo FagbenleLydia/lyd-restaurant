@@ -13,8 +13,8 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.</p>
-        <button type="button" className="custom__button">Know More</button>
+        <p className="p__opensans">Welcome to lyds resataurant the absolute best.</p>
+        <button type="button" className="custom__button">Know More about us</button>
       </div>
 
       <div className="app__aboutus-content_knife flex__center">
@@ -24,7 +24,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet.</p>
+        <p className="p__opensans">Lyds restaurant has been here since 5years ago and we are always on top. Very affordable and satisfactory.</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
